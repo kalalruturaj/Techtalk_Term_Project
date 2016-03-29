@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Techtalk_Term_Project</string>
+    <string name="cc">cc</string>
+    <string name="sign">Signin</string>
+    <string name="uname">Enter username</string>
+    <string name="pass">Enter password</string>
+    <string name="login">Login</string>
+    <string name="logo">logo</string>
+    <string name="register">Register</string>
+</resources>
